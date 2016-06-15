@@ -8,9 +8,9 @@
 # General App Info
 #
 app:
-  name: Awesome App # REQUIRED - Enter your app name
-  ios_id: 1109109105 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: # Optional - Enter Android app id like: com.example.app
+  name: FeedShare # REQUIRED - Enter your app name
+  ios_id: 1097335285 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
+  android_id: com.stackkedteam.feedshare # Optional - Enter Android app id like: com.example.app
 
   icon: # Leave blank to auto-magically populate
   # To update use path relative to project root with no leading slash:
@@ -25,8 +25,12 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Find & Share Free Food on Campus # Optional
+marketing_desc: How FeedShare Works:
+
+Users of the app see an event with leftovers/food giveaways.
+They take a picture and post the location of the event.
+Hungry users nearby gets a notification.
 
 #
 # Social Links
@@ -35,11 +39,11 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 #
 social-links:
   github:
-  facebook:
+  facebook: 
   twitter:
   pinterest:
   instagram:
-  email:
+  email: fu.je@husky.neu.edu
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
