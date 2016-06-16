@@ -38,7 +38,7 @@ social-links:
   twitter:
   pinterest:
   instagram:
-  email:
+  email: "feedsharedev@gmail.com"
   youtube: # channel/<your_long_string> or <user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
@@ -67,7 +67,7 @@ background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Option
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#960303" # Optional
+download_button_background_color: "#fb1313" # Optional
 download_button_text_color: white; # Optional
 
 #
