@@ -104,7 +104,7 @@ a:hover {
   margin-right: 20px;
   margin-bottom: 20px;
   border: none;
-  background-color: #E30404;
+  background-color: #0191FF;
   color: #fff;
 
   {% if site.download_button_background_color %}
@@ -118,7 +118,7 @@ a:hover {
 
 .download-btn:focus,
 .download-btn:hover {
-  background-color: darken(#E30404, 20%);
+  background-color: darken(#0191FF, 20%);
   color: #fff;
 
   {% if site.download_button_background_color %}
