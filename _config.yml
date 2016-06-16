@@ -68,7 +68,7 @@ device: iphone-se-silver-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#989898" # Optional
-background_image: https://pixabay.com/static/uploads/photo/2015/04/10/00/41/food-715542_960_720.jpg #/images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/pho-background.jpg #/images/backgrounds/58-usersthink-stock-image-web.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
