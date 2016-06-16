@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Find & Share Free Food on Campus # Optional
+marketing_header: Find & Share Free Food on Campus #Optional
 marketing_desc: "How FeedShare Works:
 Users see an event with food giveaways or leftovers.
 They take a pic, type the location, and post. Simple!
@@ -80,8 +80,10 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: FeedShare | Find & Share Free Food on Campus# Optional - Enter your site title
-description: Hungry? Got Leftovers? FeedShare's an app that lets students find & share free food events on campus. # Optional - Enter your site description
+#Optional - Enter your site title
+title: FeedShare | Find & Share Free Food on Campus 
+description: Hungry? Got Leftovers? FeedShare's an app that lets students find & share free food events on campus. 
+#Optional - Enter your site description
 
 #
 # Google Analytics
