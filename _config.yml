@@ -25,7 +25,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Find & Share Free Food on Campus #Optional
+marketing_header: Find & Share Free Food #Optional
 marketing_desc: "How FeedShare Works:
 A user sees an event with food giveaways/leftovers.
 She takes a pic in-app, types the location, and posts. 
