@@ -67,7 +67,7 @@ background_image: /images/backgrounds/58-usersthink-stock-image-web.jpg # Option
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
-download_button_background_color: "#0191FF" # Optional
+download_button_background_color: "#960303" # Optional
 download_button_text_color: white; # Optional
 
 #
@@ -75,8 +75,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: FeedShare | Find & Share Free Food on Campus# Optional - Enter your site title
+description: Hungry? Got Leftovers? FeedShare's an app that lets students find & share free food events on campus. # Optional - Enter your site description
 
 #
 # Google Analytics
