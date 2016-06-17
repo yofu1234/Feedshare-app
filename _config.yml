@@ -22,11 +22,7 @@ app:
 # Marketing
 #
 marketing_header: Find & Share Free Food #Optional
-marketing_desc: "How FeedShare works:
-A user sees an event with food giveaways/leftovers.
-She takes a pic, types the location, and posts it on the feed. 
-All users nearby get a notification.
-You don't have to be the event organizer, ANYONE can share!"
+marketing_desc: "How FeedShare works:"
 
 #
 # Social Links
