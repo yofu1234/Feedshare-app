@@ -81,7 +81,8 @@ description: Hungry? Got Leftovers? FeedShare's an app that lets students find &
 #
 # Google Analytics
 #
-google_analytics: # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
+google_analytics: UA-79722701-1 
+#Enter your tracking code (e.g. UA-2110908-2) to activate tracking
 
 #
 # iTunes Affiliate Program
