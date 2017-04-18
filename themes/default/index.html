@@ -41,7 +41,32 @@
           </div>
         </div>
         
-        <!-- Begin MailChimp Signup Form -->
+      </div>
+
+
+      <div class="col-sm-6">
+
+        <!-- App Screenshot(s) -->
+        <div class="device {{ site.device }}">
+          <a href="http://onelink.to/feedshare">
+          <img
+            class="app-screenshot"
+            {% if site.app.screenshot %}src="{{ site.app.screenshot }}"{% endif %}
+          />
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<div class="social">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+	      
+                <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -70,32 +95,7 @@
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='ACOMMENTS';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
         
-      </div>
-
-
-      <div class="col-sm-6">
-
-        <!-- App Screenshot(s) -->
-        <div class="device {{ site.device }}">
-          <a href="http://onelink.to/feedshare">
-          <img
-            class="app-screenshot"
-            {% if site.app.screenshot %}src="{{ site.app.screenshot }}"{% endif %}
-          />
-          </a>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<div class="social">
-  <div class="container">
-    <div class="row">
-      <div class="col-sm-12">
-        
-        
+	      
         <p><a href="https://www.dropbox.com/s/is4mzhdyu6rkl85/FeedShare%20pounds%20of%20food%20saved.xlsx?dl=0">Our <b>3000+ Users</b> have saved <b>1986 Lbs</b> of food (as of Mar 29).</a></p></p>
         <p>FeedShare's in beta, if you find bugs, please contact us: </p>
           <p>   {% include social.html %}
